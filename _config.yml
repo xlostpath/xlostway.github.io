@@ -6,25 +6,25 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda cards
-email: your-email@domain.com
+title: XWeins Life
+email: xie.jinfen@foxmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+  XWeins是一个分享日常点滴的个人博客网站.
   
   
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://webjeda.com" # the base hostname & protocol for your site
+url: "https://xlostway.github.io" # the base hostname & protocol for your site
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
 
-built-by: webjeda
+built-by: Jeff
 
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: XWeins
+   link: 'https://xlostway.github.io'
 
 # Build settings
 markdown: kramdown
@@ -33,24 +33,24 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-839790-1
 
 # Comments
 disqus: yes
-disqus-shortname: webjeda-demo
+disqus-shortname: xweins-demo
 
 #social
 facebook: http://facebook.com/
 quora: http://quora.com/
 twitter: http://twitter.com/
 github: http://github.com/
-email: your@email.com
+email: xie.jinfen@foxmail.com
 
 #facebook like box
 fb-like-box: yes
-fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+fb-app-id: 5494806352195
+fb-page-url: https://www.facebook.com/
+fb-page-title: XWeins
 
 # Sass style
 sass:
