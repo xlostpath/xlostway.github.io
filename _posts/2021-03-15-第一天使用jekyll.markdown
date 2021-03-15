@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "第一天使用Jekyll"
+categories: tutorial
+---
+When there is no image mentioned in the front-matter, default image will be displayed. You can change this image to any other one that suits your needs. The theme uses the latest bootstrap 4 css framework.
+
+​		这是我第一天搭建并使用Jekyll，之前用WordPress.之所以使用Jekyll是因为WordPress太重，搭建一个私人博客不需要涉及到后台，只需要有前台就够了。Jekyll是纯静态的页面，网站加载速度快，服务器配置要求低，并且在github上面就能直接搭建自己的博客，租用服务器的钱都可以省了。
+
+​		搭建很简单，但是也遇到了一个坑：
+
+- github老是连接不上，连接超时，可能最近是特殊时期；配置了下让github通过代理访问，终于把访问不了、访问慢的问题解决。
+
+  静态网页访问速度非常nice，Jekyll正好贴合我现在的需求，就是github pages国内无法访问，有点可惜。打算过段时间搞一个国内的低配vps服务器，直接部署在自己服务器上。
+
