@@ -9,7 +9,7 @@
 title: XWeins Life
 email: xie.jinfen@foxmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  XWeins是一个分享日常点滴的个人博客网站.
+  一个分享日常点滴的个人blog
   
   
 baseurl: "/" # the subpath of your site, e.g. /blog
