@@ -1,5 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-  <a class="navbar-brand" href={{"/" | relative_url}}>XWeins</a>
+  <!-- 自定义logo图片 -->
+  <!-- <a class="navbar-brand" href={{"/" | relative_url}}>XWeins</a> -->
+  <img class="index-logo-src" src="/images/logo-xweins.png" alt="XWeins" title="XWeins">
   <button
     class="navbar-toggler"
     type="button"
@@ -16,11 +18,11 @@
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
         <a class="nav-link" href={{"/" | relative_url}}
-          >Home <span class="sr-only">(current)</span></a
+          >主页 <span class="sr-only">(current)</span></a
         >
       </li>
       <li class="nav-item">
-        <a class="nav-link" href={{"/about/" | relative_url}} >About</a>
+        <a class="nav-link" href={{"/about/" | relative_url}} >关于</a>
       </li>
       <li class="nav-item dropdown">
         <a
@@ -32,7 +34,7 @@
           aria-haspopup="true"
           aria-expanded="false"
         >
-          Dropdown
+          下拉框
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="#">Tools</a>
