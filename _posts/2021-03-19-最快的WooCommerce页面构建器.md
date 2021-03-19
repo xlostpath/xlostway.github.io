@@ -119,4 +119,4 @@ WordPress的版本是5.6.2，WooCommerce的版本是5.0，它们都是当前测�
 
 [了解更多 ](https://woocart.com/free/lm-speedguide?utm_source=woocart&utm_medium=blog&utm_campaign=blogcta)
 
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [woocart.com](https://woocart.com/blog/fastest-woocommerce-page-builder?utm_source=email&utm_medium=broadcast&utm_campaign=pbspeed2021)
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码，[Jeff](https://xweins.com)翻译， 原文地址 [woocart.com](https://woocart.com/blog/fastest-woocommerce-page-builder?utm_source=email&utm_medium=broadcast&utm_campaign=pbspeed2021)
