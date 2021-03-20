@@ -13,7 +13,7 @@ body {
   width: 100%;
 }
 
-/* 导航栏背景色 */
+/* 自定义导航栏背景色 */
 .bg-transparent {
 	background-color: #FAFAFA;
 }
@@ -22,6 +22,11 @@ body {
 .index-logo-src {
 	width: 101px;
 	height: 33px;
+}
+
+/* 自定义主页正文与顶部边距 */
+.pt-md-5, .py-md-5 {
+    padding-top: 7rem!important;
 }
 
 img {
