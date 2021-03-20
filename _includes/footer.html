@@ -19,6 +19,11 @@
         /></a>
         {% endif %}
       </div>
+	  <!-- 自定义div -->
+	  <div>
+	    <p>文章数：{{paginator.total_posts}}篇</p>
+	  </div>
+	  
       <div class="col-md-4 text-center mt25">
         {% if site.facebook %}
         <a target="_blank" href="{{site.facebook}}"
