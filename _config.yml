@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   一个分享日常点滴的个人blog
   
   
-baseurl: "https://xweins.com" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xweins.com" # the base hostname & protocol for your site
 
 #sidebar
