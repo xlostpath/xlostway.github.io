@@ -7,12 +7,21 @@ body {
 .navbar {
   border-radius: 0;
   border-bottom: 1px solid #eee;
+  /* 添加导航栏布局属性 */
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
+/* 导航栏背景色 */
+.bg-transparent {
+	background-color: #FAFAFA;
 }
 
 /* 自定义网站logo布局 */
 .index-logo-src {
 	width: 101px;
-	height: 33px
+	height: 33px;
 }
 
 img {
