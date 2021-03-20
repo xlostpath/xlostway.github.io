@@ -28,6 +28,15 @@ body {
 .pt-md-5, .py-md-5 {
     padding-top: 7rem!important;
 }
+/* 自定义文章正文与顶部边距 */
+.wrapper {
+    padding-top: 7rem!important;
+}
+
+/* 自定义文章正文的宽度 */
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 80%;
+}
 
 img {
   max-width: 100%;
