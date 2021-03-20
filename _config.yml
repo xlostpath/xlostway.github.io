@@ -29,11 +29,11 @@ copyright:
 # Build settings
 markdown: kramdown
 permalink: /:title/
-paginate: 6
+paginate: 9
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-839790-1
+analytics: G-S418WL5M7E
 
 # Comments
 disqus: yes
