@@ -1,14 +1,21 @@
 <footer class="mt-4 mt-md-5">
   <div class="container">
     <div class="row p20">
-      {% if site.copyright.name %}
+
       <div class="col-md-4 text-center mt25">
-        ©2021
+        ©2021 
+      {% if site.copyright.name %}
         <a target="_blank" href="{{site.copyright.link}}"
           >{{site.copyright.name}}</a
         >
-      </div>
       {% endif %}
+	  {% if site.record_number %}
+        <a target="_blank" href="{{site.record_number.link}}"
+          >{{site.record_number}}</a
+        >
+      {% endif %}
+      </div>
+      
 
 <!--
       <div class="col-md-4 text-center mt25">
