@@ -28,6 +28,7 @@ copyright:
    
 record_number:
     name: 粤ICP备2021039188号
+    link: 'https://beian.miit.gov.cn'
 
 # Build settings
 markdown: kramdown
