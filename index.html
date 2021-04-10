@@ -15,7 +15,7 @@ layout: default
             <div class="card-body">
               <h3 class="panel-title font-weight-bold">{{ post.title | truncate: 25 }}</h3>
               <p class="p-0 my-1 mx-0"><span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span></p>
-               <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
+               <p>{{ post.excerpt | strip_html | truncate: 50 }}</p>
             </div>
           </div>
         </div>
