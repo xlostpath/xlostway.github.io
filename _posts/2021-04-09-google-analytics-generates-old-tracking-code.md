@@ -10,10 +10,17 @@ category: tutorial
 
 创建网络媒体是选择“显示高级选项”：
 
-![Snipaste_2021-03-21_22-48-53](C:\Users\Jeff\Desktop\Snipaste_2021-03-21_22-48-53.png)
+![google_analytics_setting_01](\images\google_analytics_setting_01.png)
 
 
 
 选择“仅创建Universal Analytics”：
 
-![Snipaste_2021-03-21_22-49-31](C:\Users\Jeff\Desktop\Snipaste_2021-03-21_22-49-31.png)
+![google_analytics_setting_02](\images\google_analytics_setting_02.png)
+
+
+
+
+
+
+
