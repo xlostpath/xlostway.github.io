@@ -44,16 +44,15 @@ disqus: yes
 disqus-shortname: xweins-demo
 
 #social
-facebook: https://facebook.com/
+facebook: https://www.facebook.com/weinslife/
 quora: https://quora.com/
-twitter: https://twitter.com/
-github: https://github.com/
+github: https://github.com/xlostway/xlostway.github.io
 email: xie.jinfen@foxmail.com
 
 #facebook like box
 fb-like-box: yes
 fb-app-id: 5494806352195
-fb-page-url: https://www.facebook.com/
+fb-page-url: https://www.facebook.com/weinslife/
 fb-page-title: XWeins脸书
 
 # Sass style
